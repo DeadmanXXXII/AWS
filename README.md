@@ -1,6 +1,6 @@
 # AWS
 
-Certainly! Here’s a comprehensive list of AWS CLI commands categorized by their functionality.
+Here’s a comprehensive list of AWS CLI commands categorized by their functionality.
 
 # AWS CLI Commands
 
